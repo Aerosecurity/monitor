@@ -1,0 +1,8 @@
+{
+    "$id": "monitor.schema.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Desklock Monitor Settings Schema",
+    "definitions": {
+        
+    }
+}
